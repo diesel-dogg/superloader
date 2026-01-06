@@ -150,14 +150,12 @@ Sider/content/stadium-server
 - Misnaming will break the tool or cause texture corruption.  
 - Advanced modding instructions from earlier versions are no longer supported.
 
-Original EvoWeb thread for reference:  
-https://evoweb.uk/threads/big-new-update-superloader-get-consistently-good-pitches-fifa-identical-lighting-enhanced-ball-reflections-and-much-more-throughout-the-game.96641/
-
 ---
 
 ## ⚠️ **Permissions**
 
-Superloader is free to share **as long as you give proper credit**.
+Superloader is free to share **as long as you give proper credit** to famous_dogg and only include the content in legitimate free links with no link shortners or ads. 
+IF I FIND ANY LINKS BEING DISTRIBUTED FOR MY WORK THAT ARE USING ADS OR LINK SHORTNERS OR ARE OTHERWISE MONETISED/PREMIUM ETC, I WILL FILE DMCA TAKEDOWN REQUESTS OR SUBMIT COPYRIGHT CLAIMS ON YOUTUBE
 
 ```
 SuperLoader for PES 2017 by Famous Dogg
