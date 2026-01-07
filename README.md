@@ -3,6 +3,8 @@
 
 Please read these instructions carefully before use.
 
+To download the latest stable version, [CLICK HERE] (https://github.com/diesel-dogg/superloader/releases)
+
 ---
 
 ## 🧐 **What is Superloader and why should you use it?**
@@ -154,8 +156,8 @@ Sider/content/stadium-server
 
 ## ⚠️ **Permissions**
 
-Superloader is free to share **as long as you give proper credit** to famous_dogg and only include the content in legitimate free links with no link shortners or ads. 
-IF I FIND ANY LINKS BEING DISTRIBUTED FOR MY WORK THAT ARE USING ADS OR LINK SHORTNERS OR ARE OTHERWISE MONETISED/PREMIUM ETC, I WILL FILE DMCA TAKEDOWN REQUESTS OR SUBMIT COPYRIGHT CLAIMS ON YOUTUBE
+Superloader is free to share **as long as you give proper credit** to famous_dogg and only include the content in legitimate free links with no link shorteners or ads. 
+IF I FIND ANY LINKS BEING DISTRIBUTED FOR MY WORK THAT ARE USING ADS OR LINK SHORTENERS OR ARE OTHERWISE MONETISED/PREMIUM ETC, I WILL FILE DMCA TAKEDOWN REQUESTS OR SUBMIT COPYRIGHT CLAIMS ON YOUTUBE
 
 ```
 SuperLoader for PES 2017 by Famous Dogg
