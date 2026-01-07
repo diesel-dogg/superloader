@@ -3,7 +3,7 @@
 
 Please read these instructions carefully before use.
 
-To download the latest stable version, [CLICK HERE] (https://github.com/diesel-dogg/superloader/releases)
+To download the latest stable version, [CLICK HERE](https://github.com/diesel-dogg/superloader/releases)
 
 ---
 
